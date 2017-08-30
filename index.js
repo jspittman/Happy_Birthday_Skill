@@ -1,5 +1,5 @@
 var lastPlayedByUser = {};
-var podcastURL = "https://www.gomain.com/koze/koze.m3u";
+var podcastURL = "https://www.gomain.com/happy-birthday/happy-birthday.mp3";
  
  
 exports.handler = function(event, context) {
